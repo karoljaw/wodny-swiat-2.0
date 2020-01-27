@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="566" height="921" viewBox="0 0 566 921">
+  <defs>
+    <filter id="Path_17" x="264.554" y="584.582" width="270.771" height="266.331" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_49" data-name="Group 49" transform="translate(-9212 -3222)">
+    <g id="Group_44" data-name="Group 44" transform="translate(2857 725)" opacity="0.33">
+      <path id="Path_16" data-name="Path 16" d="M44.5,0C69.077,0,89,18.58,89,41.5S69.077,83,44.5,83,0,64.42,0,41.5,19.923,0,44.5,0Z" transform="translate(6625 3027)" fill="#319fe5"/>
+      <g transform="matrix(1, 0, 0, 1, 6355, 2497)" filter="url(#Path_17)">
+        <path id="Path_17-2" data-name="Path 17" d="M94.374,0c52.121,0,94.374,39.538,94.374,88.31S146.5,176.62,94.374,176.62,0,137.082,0,88.31,42.253,0,94.374,0Z" transform="translate(428.01 831.91) rotate(-150)" fill="#0072ba"/>
+      </g>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="52" cy="49" rx="52" ry="49" transform="translate(6355 2853)" fill="#48a7e3"/>
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="52.5" cy="49" rx="52.5" ry="49" transform="translate(6816 3231)" fill="#48a7e3"/>
+      <path id="Path_15" data-name="Path 15" d="M52.5,0C81.495,0,105,21.938,105,49S81.495,98,52.5,98,0,76.062,0,49,23.505,0,52.5,0Z" transform="translate(6571 2936)" fill="#48a7e3"/>
+      <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="52.5" cy="49" rx="52.5" ry="49" transform="translate(6651 3320)" fill="#48a7e3"/>
+      <path id="Path_14" data-name="Path 14" d="M74.5,0C115.645,0,149,31.116,149,69.5S115.645,139,74.5,139,0,107.884,0,69.5,33.355,0,74.5,0Z" transform="translate(6723 2497)" fill="#48a7e3"/>
+      <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="52.5" cy="49" rx="52.5" ry="49" transform="translate(6605 2662)" fill="#48a7e3"/>
+    </g>
+  </g>
+</svg>
